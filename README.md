@@ -1,67 +1,42 @@
-<h1 align="center">Hi, I'm Artem Groza 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>LLM / AI Agents Team Lead · Applied ML Engineer · PhD Candidate</b>
-</p>
+# Artem Groza
 
-<p align="center">
-  I research multi-agent AI systems and build applied LLM products for real business workflows.
-</p>
+### LLM / AI Agents Team Lead · Applied ML Engineer · PhD Candidate
 
-<p align="center">
-  <a href="mailto:i@mcgrozov.ru">
-    <img src="https://img.shields.io/badge/Email-i%40mcgrozov.ru-blue?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/artem-groza-8793a326b">
-    <img src="https://img.shields.io/badge/LinkedIn-Artem%20Groza-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://medium.com/@mcgrozov">
-    <img src="https://img.shields.io/badge/Medium-@mcgrozov-black?style=flat-square&logo=medium" />
-  </a>
-</p>
+I research **multi-agent AI systems** and build applied **LLM products** for real business workflows.
+
+[![Email](https://img.shields.io/badge/Email-I%40groza--1.ru-2B6CB0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:I@groza-1.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-groza--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/groza-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem%20Groza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artem-groza-8793a326b)
+
+</div>
 
 ---
 
-## About
+## What I do
 
-I work on applied LLM systems: AI agents, RAG, semantic search, recommendation assistants, and LLM infrastructure.
+I work at the intersection of **LLMs, AI agents, RAG, semantic search, and business decision-support systems**.
 
-My research focuses on **multi-agent AI systems for managerial decision-making in commercial organizations**.
+My applied work focuses on building production-ready LLM systems:
 
----
+- AI agents for business workflows
+- RAG and semantic search over real commercial data
+- Hybrid retrieval: dense search, BM25, RRF, reranking
+- Recommendation assistants and product search
+- LLM inference infrastructure with vLLM, SGLang, Docker, and GPU servers
 
-## Focus areas
+My research focuses on:
 
-- LLM agents and multi-agent systems
-- Retrieval-Augmented Generation
-- Hybrid search: dense retrieval, BM25, RRF, reranking
-- Applied AI products for business workflows
-- LLM inference with vLLM / SGLang
-- Decision-support systems and simulation benchmarks
-
----
-
-## Tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
-![SGLang](https://img.shields.io/badge/SGLang-000000?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> Multi-agent AI systems for managerial decision-making in commercial organizations.
 
 ---
 
-## GitHub stats
+## Current focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=groza-tech&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcgrozov&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+```txt
+LLM Agents        ████████████████████
+RAG / Retrieval   ████████████████████
+AI Products       ██████████████████░░
+LLM Infra         ████████████████░░░░
+Research / PhD    ████████████████░░░░
