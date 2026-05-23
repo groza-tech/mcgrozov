@@ -1,29 +1,137 @@
-<h1 align="center">Hi 👋, I'm Artem Groza</h1>
-<h3 align="center">A passionate Data Scientist from Russia</h3>
+<h1 align="center">Hi, I'm Artem Groza 👋</h1>
 
-- 🔭 I’m currently working on **DL, Time Series**
-
-- 🌱 I’m currently learning **Deep Learning: PyTorch, Keras**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mcgrozov/ml_projects-](https://github.com/mcgrozov/ml_projects-)
-
-- 💬 Ask me about **Big Data, Deep Learning, Machine Learning**
-
-- 📫 How to reach me **i@mcgrozov.ru**
-
-- 📄 Know about my experiences [https://standardresume.co/r/XXKkgXgGuHBcY77K2RpJe](https://standardresume.co/r/XXKkgXgGuHBcY77K2RpJe)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/artem-groza-8793a326b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/artem-groza-8793a326b" height="30" width="40" /></a>
-<a href="https://kaggle.com/mcgrozov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mcgrozov" height="30" width="40" /></a>
-<a href="https://medium.com/@mcgrozov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mcgrozov" height="30" width="40" /></a>
+<p align="center">
+  <b>LLM / AI Agents Team Lead · Applied ML Engineer · PhD Candidate</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build production-grade LLM systems, AI agents, RAG pipelines, and ML infrastructure for real business workflows.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcgrozov&show_icons=true&locale=en&layout=compact" alt="mcgrozov" /></p>
+<p align="center">
+  <a href="mailto:i@mcgrozov.ru">
+    <img src="https://img.shields.io/badge/Email-i%40mcgrozov.ru-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/artem-groza-8793a326b">
+    <img src="https://img.shields.io/badge/LinkedIn-Artem%20Groza-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mcgrozov">
+    <img src="https://img.shields.io/badge/GitHub-mcgrozov-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://medium.com/@mcgrozov">
+    <img src="https://img.shields.io/badge/Medium-@mcgrozov-black?style=flat-square&logo=medium" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcgrozov&show_icons=true&locale=en" alt="mcgrozov" /></p>
+---
 
+## About me
+
+I'm an ML / LLM engineer focused on turning modern AI research into reliable production systems.
+
+Currently, I lead LLM and AI agent initiatives at **SimpleWine**, where I work on:
+
+- LLM-powered product assistants and recommendation systems
+- RAG pipelines over structured and semi-structured commercial data
+- AI agent architectures for business decision support
+- Hybrid retrieval, reranking, vector search, and semantic search systems
+- LLM inference infrastructure with vLLM, SGLang, Docker, and GPU servers
+
+I'm also a PhD candidate researching **multi-agent AI systems for managerial decision-making in commercial organizations**.
+
+---
+
+## Main interests
+
+- LLM agents and multi-agent systems
+- Retrieval-Augmented Generation
+- Hybrid search: dense, sparse, BM25, RRF, reranking
+- Production LLM inference and optimization
+- Recommendation systems and decision-support systems
+- Applied machine learning for business automation
+- Agentic workflows for management, operations, and analytics
+
+---
+
+## Tech stack
+
+### AI / ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### LLM / Agents / RAG
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
+![SGLang](https://img.shields.io/badge/SGLang-000000?style=flat-square)
+
+### Backend / Infra / Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## What I like building
+
+- AI assistants that actually use tools, search, and business data
+- RAG systems that survive contact with messy production catalogs
+- Agentic workflows for analytics, operations, and management decisions
+- LLM inference setups that are fast, observable, and maintainable
+- Research prototypes that can grow into real products
+
+---
+
+## Selected projects
+
+> I’m gradually cleaning up and publishing older experiments and production-inspired prototypes.
+
+- **AI Sommelier / Wine RAG** — semantic product search and LLM assistant for wine recommendations  
+- **Hybrid Retrieval Experiments** — dense + sparse retrieval, BM25, RRF, reranking, and query transformation  
+- **LLM Inference Recipes** — vLLM / SGLang deployment patterns for open-source LLMs  
+- **Management Decision Simulation Benchmarks** — research environment for studying AI-assisted managerial decisions  
+- **Classic ML Projects** — earlier ML, time series, and data science experiments  
+
+---
+
+## Research
+
+My current academic work focuses on:
+
+> Multi-agent AI systems as a methodology for transforming managerial decision-making in commercial organizations.
+
+Key topics:
+
+- AI agents in management workflows
+- Decision-support systems
+- Simulation environments and benchmarks
+- Human-AI collaboration in organizations
+- Evaluation of agentic systems under uncertainty
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcgrozov&show_icons=true&theme=default&hide_border=true" alt="Artem's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcgrozov&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## Contact
+
+- Email: **i@groza-1.ru**
+- GitHub: **@groza-tech**
